@@ -1,0 +1,1 @@
+Dataset on the job outcomes of students who graduated from college between 2010 and 2012.  Original data was released by American Community Survey, who conducts surveys and aggregates the data.  FiveThirtyEight cleaned the dataset and released it on their Gihub repo.
